@@ -1,0 +1,13 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: sans-serif;
+}
+.headerContainer{
+  text-align: center;
+  font-size: 50px;
+  margin: 20px;
+  border: 2px solid black;
+  border-radius: 25px;
+  margin-bottom: 100px;
+}
